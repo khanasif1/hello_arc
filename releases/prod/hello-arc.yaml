@@ -16,4 +16,4 @@ spec:
     replicaCount: 2
     env:
       name: MESSAGE
-      value: Asif Khan V2 :Azure Arc enabled K8s GitOps Demo!
+      value: Asif Khan V3 :Azure Arc enabled K8s GitOps Demo!
